@@ -1,0 +1,42 @@
+.one{
+    margin-top: -144px;
+    margin-left: 302px;
+}
+.card{
+
+    display:flex;
+    flex-direction:column;
+    
+    align-content: center;
+    margin:0 auto;
+    padding: 24px;
+
+}
+.card-header{
+    height: 1%;
+  background: #5d6770;
+  color: white;
+  text-align: center;
+  position: absolute;
+  margin-left: -13px;
+  width: 502px;
+  margin-top: 85px;
+}
+.card-header p{
+    font-size: 20px;
+  position: absolute;
+  margin-top: -10px;
+  margin-left: 180px;
+}
+
+.container {
+    padding: 4px 16px;
+    position: absolute;
+    margin-top: 155px;
+    margin-left: -27px;
+  }
+.btn-editable{
+    background-color: #2196F3;
+    width: 558px;
+
+}
